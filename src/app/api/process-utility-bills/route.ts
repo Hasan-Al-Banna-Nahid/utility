@@ -5,7 +5,7 @@ import { existsSync } from "fs";
 import path from "path";
 
 const N8N_WEBHOOK_URL =
-  "https://n8n.mkgrowth.ca/webhook/dfef9d24-252b-477b-a37b-03c69a4efd28";
+  "http://n8n-simplifai.saavatar.xyz/webhook/dfef9d24-252b-477b-a37b-03c69a4efd28";
 
 // Ensure data directory exists
 const DATA_DIR = path.join(process.cwd(), "data");
