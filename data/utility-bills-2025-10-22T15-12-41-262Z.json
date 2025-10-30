@@ -1,0 +1,29 @@
+[
+  {
+    "fileName": "CPS 2025-07.pdf",
+    "fileSize": 1929043,
+    "uploadStatus": "success",
+    "utilityType": "electric",
+    "accountNumber": "4357",
+    "customerName": "unknown",
+    "serviceAddress": "unknown",
+    "billingAddress": "unknown",
+    "billDate": "unknown",
+    "dueDate": "unknown",
+    "readDate": "unknown",
+    "previousReadDate": "unknown",
+    "kWhUsed": 0,
+    "thermsUsed": 0,
+    "demandKW": 0,
+    "currentCharges": 0,
+    "taxes": 0,
+    "totalAmount": 0,
+    "rateSchedule": "unknown",
+    "meterReadType": "unknown",
+    "missingFields": [
+      "meterNumber"
+    ],
+    "isDuplicate": false,
+    "processedAt": "2025-10-22T15-12-41-262Z"
+  }
+]

@@ -1,0 +1,122 @@
+[2025-10-22T15:11:11.502Z] [INFO] Received 1 files for processing
+[2025-10-22T15:11:11.504Z] [INFO] Processing file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:11:11.508Z] [INFO] Starting text extraction for: CPS 2025-07.pdf
+[2025-10-22T15:11:11.839Z] [SUCCESS] Successfully extracted 1831497 characters from: CPS 2025-07.pdf
+[2025-10-22T15:11:11.852Z] [INFO] Starting AI analysis for: CPS 2025-07.pdf
+[2025-10-22T15:11:14.272Z] [ERROR] AI analysis failed for CPS 2025-07.pdf: Error: No JSON found in AI response
+[2025-10-22T15:11:14.273Z] [ERROR] Failed to process CPS 2025-07.pdf: Error: No JSON found in AI response
+[2025-10-22T15:11:14.274Z] [INFO] Sending 1 records to n8n webhook
+[2025-10-22T15:11:14.669Z] [ERROR] n8n webhook failed with status 404: {"code":404,"message":"The requested webhook \"POST dfef9d24-252b-477b-a37b-03c69a4efd28\" is not registered.","hint":"The workflow must be active for a production URL to run successfully. You can activate the workflow using the toggle in the top-right of the editor. Note that unlike test URL calls, production URL calls aren't shown on the canvas (only in the executions list)","stacktrace":"ResponseError: The requested webhook \"POST dfef9d24-252b-477b-a37b-03c69a4efd28\" is not registered.\n    at LiveWebhooks.findWebhook (/usr/lib/node_modules/n8n/src/webhooks/live-webhooks.ts:169:10)\n    at LiveWebhooks.executeWebhook (/usr/lib/node_modules/n8n/src/webhooks/live-webhooks.ts:83:19)\n    at WebhookRequestHandler.handleRequest (/usr/lib/node_modules/n8n/src/webhooks/webhook-request-handler.ts:66:21)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-request-handler.ts:237:3"}
+[2025-10-22T15:11:14.671Z] [SUCCESS] Processing completed: 0/1 successful, upload status: failed
+[2025-10-22T15:11:14.672Z] [INFO] === Utility bill processing completed ===
+[2025-10-22T15:12:26.453Z] [INFO] === Starting utility bill processing ===
+[2025-10-22T15:12:26.890Z] [INFO] Received 1 files for processing
+[2025-10-22T15:12:26.905Z] [INFO] Processing file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:12:26.906Z] [INFO] Starting text extraction for: CPS 2025-07.pdf
+[2025-10-22T15:12:27.173Z] [SUCCESS] Successfully extracted 1831497 characters from: CPS 2025-07.pdf
+[2025-10-22T15:12:27.187Z] [INFO] Starting AI analysis for: CPS 2025-07.pdf
+[2025-10-22T15:12:41.247Z] [SUCCESS] AI analysis completed for: CPS 2025-07.pdf
+[2025-10-22T15:12:41.265Z] [SUCCESS] Data saved to local storage: CPS 2025-07.pdf
+[2025-10-22T15:12:41.272Z] [SUCCESS] Successfully processed: CPS 2025-07.pdf
+[2025-10-22T15:12:41.280Z] [INFO] Sending 1 records to n8n webhook
+[2025-10-22T15:12:41.794Z] [ERROR] n8n webhook failed with status 500: {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:95:28)\n    at extractWebhookLastNodeResponse (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:37:16)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-helpers.ts:722:57"}
+[2025-10-22T15:12:41.797Z] [SUCCESS] Processing completed: 1/1 successful, upload status: success
+[2025-10-22T15:12:41.799Z] [INFO] === Utility bill processing completed ===
+[2025-10-22T15:21:23.527Z] [INFO] === Starting utility bill processing ===
+[2025-10-22T15:21:23.852Z] [INFO] Received 1 files for processing
+[2025-10-22T15:21:23.854Z] [INFO] Processing file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:21:23.857Z] [INFO] Starting text extraction for: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:21:24.082Z] [SUCCESS] Method 1 (Basic) successful for CPS 2025-07.pdf: 1831497 chars
+[2025-10-22T15:21:24.083Z] [INFO] Text extraction method: basic, chars: 1831497
+[2025-10-22T15:21:24.085Z] [INFO] Starting AI analysis for: CPS 2025-07.pdf (text length: 1831497)
+[2025-10-22T15:21:27.989Z] [ERROR] AI analysis failed for CPS 2025-07.pdf: Error: No JSON found in AI response. Content: Based on the provided text, it's not possible to extract any utility bill data. The text appears to be a corrupted PDF file or a binary representation of a PDF file, not a readable utility bill. Pleas
+[2025-10-22T15:21:28.004Z] [SUCCESS] Data saved to local storage: CPS 2025-07.pdf
+[2025-10-22T15:21:28.005Z] [SUCCESS] Completed processing: CPS 2025-07.pdf - Status: failed
+[2025-10-22T15:21:28.007Z] [INFO] Sending 1 records to n8n webhook
+[2025-10-22T15:21:28.016Z] [INFO] n8n payload prepared: {"totalFiles":1,"successfulExtractions":0,"failedExtractions":1,"filesWithData":0}
+[2025-10-22T15:21:28.509Z] [ERROR] n8n webhook failed with status 500: {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:95:28)\n    at extractWebhookLastNodeResponse (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:37:16)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-helpers.ts:722:57"}
+[2025-10-22T15:21:28.510Z] [SUCCESS] Processing completed: 0/1 successful, upload status: failed
+[2025-10-22T15:21:28.511Z] [ERROR] n8n webhook result: FAILED - n8n webhook failed: 500 - {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node
+[2025-10-22T15:21:28.512Z] [INFO] === Utility bill processing completed ===
+[2025-10-22T15:36:56.083Z] [INFO] === Starting utility bill processing ===
+[2025-10-22T15:36:56.350Z] [INFO] Received 1 files for processing
+[2025-10-22T15:36:56.351Z] [INFO] Processing file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:36:56.353Z] [INFO] Starting text extraction for: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:36:56.711Z] [SUCCESS] Method 1 (Basic) successful for CPS 2025-07.pdf: 1831497 chars
+[2025-10-22T15:36:56.712Z] [INFO] Text extraction method: basic, chars: 1831497
+[2025-10-22T15:36:56.831Z] [INFO] Starting AI analysis for: CPS 2025-07.pdf (text length: 1831497)
+[2025-10-22T15:37:03.385Z] [ERROR] AI analysis failed for CPS 2025-07.pdf: Error: No JSON found in AI response. Content: Based on the provided PDF text content, it's not possible to extract any utility bill data. The text appears to be a binary or encoded data, not human-readable text. Therefore, no valid JSON can be ge
+[2025-10-22T15:37:03.405Z] [SUCCESS] Data saved to local storage: CPS 2025-07.pdf
+[2025-10-22T15:37:03.406Z] [SUCCESS] Completed processing: CPS 2025-07.pdf - Status: failed
+[2025-10-22T15:37:03.407Z] [INFO] Sending 1 records to n8n webhook
+[2025-10-22T15:37:03.410Z] [INFO] n8n payload prepared: {"totalFiles":1,"successfulExtractions":0,"failedExtractions":1,"filesWithData":0}
+[2025-10-22T15:37:03.977Z] [ERROR] n8n webhook failed with status 500: {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:95:28)\n    at extractWebhookLastNodeResponse (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:37:16)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-helpers.ts:722:57"}
+[2025-10-22T15:37:04.018Z] [SUCCESS] Processing completed: 0/1 successful, upload status: failed
+[2025-10-22T15:37:04.020Z] [ERROR] n8n webhook result: FAILED - n8n webhook failed: 500 - {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node
+[2025-10-22T15:37:04.021Z] [INFO] === Utility bill processing completed ===
+[2025-10-22T15:50:30.890Z] [INFO] === Starting utility bill processing ===
+[2025-10-22T15:50:31.240Z] [INFO] Received 1 files for processing
+[2025-10-22T15:50:31.244Z] [INFO] Processing file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:50:31.246Z] [INFO] Starting text extraction for: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T15:50:35.208Z] [SUCCESS] Method 2 (Latin1) successful for CPS 2025-07.pdf: 1174200 chars
+[2025-10-22T15:50:35.289Z] [INFO] Text extraction method: latin1, chars: 1174200
+[2025-10-22T15:50:35.290Z] [INFO] Starting AI analysis for: CPS 2025-07.pdf (text length: 1174200)
+[2025-10-22T15:50:38.424Z] [INFO] AI raw response for CPS 2025-07.pdf: {
+  "fileName": "CPS 2025-07.pdf",
+  "utilityType": "unknown",
+  "accountNumber": null,
+  "meterNumber": null,
+  "customerName": null,
+  "serviceAddress": null,
+  "billingAddress": null,
+  "billDate":...
+[2025-10-22T15:50:38.425Z] [WARNING] AI analysis found no data in CPS 2025-07.pdf
+[2025-10-22T15:50:38.443Z] [SUCCESS] Data saved to local storage: CPS 2025-07.pdf
+[2025-10-22T15:50:38.444Z] [SUCCESS] Completed processing: CPS 2025-07.pdf - Status: failed
+[2025-10-22T15:50:38.446Z] [INFO] Sending 1 records to n8n webhook
+[2025-10-22T15:50:38.448Z] [INFO] Prepared 1 simplified records for n8n
+[2025-10-22T15:50:38.462Z] [INFO] Trying Format 1: Direct array payload
+[2025-10-22T15:50:39.263Z] [INFO] Trying Format 2: Object with items array
+[2025-10-22T15:50:39.663Z] [INFO] Trying Format 3: Object with data array
+[2025-10-22T15:50:40.199Z] [INFO] Trying Format 4: Individual item requests
+[2025-10-22T15:50:40.728Z] [ERROR] All n8n payload formats failed. Check n8n webhook configuration.
+[2025-10-22T15:50:40.795Z] [SUCCESS] Processing completed: 0/1 successful, upload status: failed
+[2025-10-22T15:50:40.797Z] [ERROR] n8n webhook result: FAILED - All n8n payload formats failed. Check n8n webhook configuration.
+[2025-10-22T15:50:40.798Z] [INFO] === Utility bill processing completed ===
+[2025-10-22T16:05:58.257Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-22T16:05:58.359Z] [INFO] Received 1 files for binary upload
+[2025-10-22T16:05:58.364Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T16:05:58.390Z] [SUCCESS] Converted CPS 2025-07.pdf to base64 (2572060 chars)
+[2025-10-22T16:05:58.392Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-22T16:05:58.396Z] [INFO] Sending binary payload with 1 files to n8n
+[2025-10-22T16:06:02.444Z] [ERROR] n8n webhook failed with status 500: {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:95:28)\n    at extractWebhookLastNodeResponse (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:37:16)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-helpers.ts:722:57"}
+[2025-10-22T16:06:02.447Z] [INFO] Batch sending failed, trying individual files
+[2025-10-22T16:06:02.449Z] [INFO] Sending 1 files individually to n8n
+[2025-10-22T16:06:07.536Z] [ERROR] Failed to send CPS 2025-07.pdf to n8n: 500
+[2025-10-22T16:06:07.540Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-22T16:06:07.541Z] [ERROR] n8n webhook result: FAILED - n8n webhook failed: 500 - {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node
+[2025-10-22T16:06:07.541Z] [INFO] === Binary file upload completed ===
+[2025-10-22T16:15:21.611Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-22T16:15:21.678Z] [INFO] Received 1 files for binary upload
+[2025-10-22T16:15:21.680Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T16:15:21.829Z] [SUCCESS] Converted CPS 2025-07.pdf to base64 (2572060 chars)
+[2025-10-22T16:15:21.857Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-22T16:15:21.857Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-22T16:15:21.917Z] [INFO] === Binary file upload completed ===
+[2025-10-22T16:15:23.716Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-22T16:19:58.343Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-22T16:19:58.769Z] [INFO] Received 1 files for binary upload
+[2025-10-22T16:19:58.770Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T16:19:58.808Z] [SUCCESS] Converted CPS 2025-07.pdf to base64 (2572060 chars)
+[2025-10-22T16:19:58.809Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-22T16:19:58.809Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-22T16:19:58.857Z] [INFO] === Binary file upload completed ===
+[2025-10-22T16:20:04.148Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-22T17:16:37.833Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-22T17:16:38.355Z] [INFO] Received 1 files for binary upload
+[2025-10-22T17:16:38.576Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-22T17:16:39.012Z] [SUCCESS] Converted CPS 2025-07.pdf to base64 (2572060 chars)
+[2025-10-22T17:16:39.060Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-22T17:16:39.060Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-22T17:16:39.333Z] [INFO] === Binary file upload completed ===
+[2025-10-22T17:16:46.203Z] [ERROR] n8n webhook failed with status 500: {"code":0,"message":"No item was found to return","stacktrace":"Error: No item was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:95:28)\n    at extractWebhookLastNodeResponse (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:37:16)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-helpers.ts:722:57"}

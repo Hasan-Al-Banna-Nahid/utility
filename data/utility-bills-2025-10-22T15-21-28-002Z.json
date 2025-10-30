@@ -1,0 +1,43 @@
+[
+  {
+    "fileName": "CPS 2025-07.pdf",
+    "fileSize": 1929043,
+    "uploadStatus": "success",
+    "utilityType": "electric",
+    "accountNumber": "4357",
+    "customerName": "unknown",
+    "serviceAddress": "unknown",
+    "billingAddress": "unknown",
+    "billDate": "unknown",
+    "dueDate": "unknown",
+    "readDate": "unknown",
+    "previousReadDate": "unknown",
+    "kWhUsed": 0,
+    "thermsUsed": 0,
+    "demandKW": 0,
+    "currentCharges": 0,
+    "taxes": 0,
+    "totalAmount": 0,
+    "rateSchedule": "unknown",
+    "meterReadType": "unknown",
+    "missingFields": [
+      "meterNumber"
+    ],
+    "isDuplicate": false,
+    "processedAt": "2025-10-22T15-12-41-262Z"
+  },
+  {
+    "fileName": "CPS 2025-07.pdf",
+    "fileSize": 1929043,
+    "uploadStatus": "failed",
+    "utilityType": "unknown",
+    "error": "AI analysis failed: No JSON found in AI response. Content: Based on the provided text, it's not possible to extract any utility bill data. The text appears to be a corrupted PDF file or a binary representation of a PDF file, not a readable utility bill. Pleas",
+    "extractedTextLength": 1831497,
+    "missingFields": [
+      "meterNumber",
+      "readDate"
+    ],
+    "isDuplicate": false,
+    "processedAt": "2025-10-22T15-21-28-002Z"
+  }
+]

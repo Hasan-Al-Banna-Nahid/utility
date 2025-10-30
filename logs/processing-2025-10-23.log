@@ -1,0 +1,246 @@
+[2025-10-23T09:45:05.039Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T09:45:05.797Z] [INFO] Received 1 files for binary upload
+[2025-10-23T09:45:05.819Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T09:45:06.115Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T09:45:06.316Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T09:45:06.316Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T09:45:06.514Z] [INFO] === Binary file upload completed ===
+[2025-10-23T09:45:16.023Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:27:17.616Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:27:18.294Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:27:18.297Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:27:18.645Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:27:18.646Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:27:18.646Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:27:18.673Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:27:27.510Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:30:24.889Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:30:25.019Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:30:25.026Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:30:25.036Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:30:25.037Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:30:25.037Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:30:25.424Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:30:27.866Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:32:02.805Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:32:03.052Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:32:03.056Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:32:03.213Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:32:03.225Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:32:03.225Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:32:03.241Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:32:24.054Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:34:37.810Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:34:37.851Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:34:37.852Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:34:37.860Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:34:37.863Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:34:37.863Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:34:37.865Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:35:27.205Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:36:44.631Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:36:44.802Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:36:44.806Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:36:44.821Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:36:44.823Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:36:44.823Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:36:44.859Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:37:33.323Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:38:55.835Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:38:56.022Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:38:56.024Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:38:56.044Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:38:56.056Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:38:56.055Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:38:56.060Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:39:48.353Z] [ERROR] n8n webhook failed with status 500: {"code":0,"message":"No binary data was found to return","stacktrace":"Error: No binary data was found to return\n    at extractFirstEntryBinaryFromTaskData (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:99:28)\n    at extractWebhookLastNodeResponse (/usr/lib/node_modules/n8n/src/webhooks/webhook-last-node-response-extractor.ts:37:16)\n    at /usr/lib/node_modules/n8n/src/webhooks/webhook-helpers.ts:722:57"}
+[2025-10-23T12:48:56.105Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:48:56.332Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:48:56.333Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:48:56.584Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:48:56.585Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:48:56.586Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:48:56.733Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:49:05.834Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:52:41.997Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:52:42.036Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:52:42.039Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:52:42.044Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:52:42.047Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:52:42.051Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:52:42.421Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:52:53.017Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T12:59:29.233Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T12:59:29.590Z] [INFO] Received 1 files for binary upload
+[2025-10-23T12:59:29.593Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T12:59:29.605Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T12:59:29.608Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T12:59:29.608Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T12:59:29.610Z] [INFO] === Binary file upload completed ===
+[2025-10-23T12:59:37.054Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T13:01:52.607Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T13:01:53.067Z] [INFO] Received 1 files for binary upload
+[2025-10-23T13:01:53.082Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T13:01:53.116Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T13:01:53.125Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T13:01:53.127Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T13:01:53.151Z] [INFO] === Binary file upload completed ===
+[2025-10-23T13:02:01.922Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T13:05:55.816Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T13:05:56.001Z] [INFO] Received 1 files for binary upload
+[2025-10-23T13:05:56.003Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T13:05:56.030Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T13:05:56.031Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T13:05:56.033Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T13:05:56.166Z] [INFO] === Binary file upload completed ===
+[2025-10-23T13:06:04.716Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T13:07:42.225Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T13:07:42.472Z] [INFO] Received 1 files for binary upload
+[2025-10-23T13:07:42.479Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T13:07:42.489Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T13:07:42.498Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T13:07:42.499Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T13:07:42.520Z] [INFO] === Binary file upload completed ===
+[2025-10-23T13:07:51.434Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T13:09:50.144Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T13:09:50.372Z] [INFO] Received 1 files for binary upload
+[2025-10-23T13:09:50.384Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T13:09:50.400Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T13:09:50.590Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T13:09:50.592Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T13:09:50.612Z] [INFO] === Binary file upload completed ===
+[2025-10-23T13:09:59.105Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T13:14:19.314Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T13:14:19.722Z] [INFO] Received 1 files for binary upload
+[2025-10-23T13:14:19.723Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T13:14:19.729Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T13:14:19.737Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T13:14:19.738Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T13:14:19.978Z] [INFO] === Binary file upload completed ===
+[2025-10-23T13:15:10.704Z] [ERROR] n8n webhook failed with status 500: {"message":"Error in workflow"}
+[2025-10-23T13:20:11.350Z] [INFO] === Starting binary file upload to n8n ===
+[2025-10-23T13:20:11.376Z] [INFO] Received 1 files for binary upload
+[2025-10-23T13:20:11.541Z] [INFO] Processing binary file: CPS 2025-07.pdf (1929043 bytes)
+[2025-10-23T13:20:11.584Z] [SUCCESS] Converted CPS 2025-07.pdf to binary ArrayBuffer (1929043 bytes)
+[2025-10-23T13:20:11.659Z] [INFO] Sending 1 binary files to n8n webhook
+[2025-10-23T13:20:11.670Z] [SUCCESS] Binary upload completed: 1/1 successful, upload status: success
+[2025-10-23T13:20:11.754Z] [INFO] === Binary file upload completed ===
+[2025-10-23T13:21:13.022Z] [ERROR] n8n webhook failed with status 504: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>mkgrowth.ca | 504: Gateway time-out</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+                <span class="inline-block">Gateway time-out</span>
+                <span class="code-label">Error code 504</span>
+            </h1>
+            <div>
+                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&utm_campaign=n8n.mkgrowth.ca" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2025-10-23 13:21:13 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                    <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Browser
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&#38;utm_campaign=n8n.mkgrowth.ca" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Chittagong</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&utm_campaign=n8n.mkgrowth.ca" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+  </a>
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">n8n.mkgrowth.ca</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Host
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+  
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a gateway time-out error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">993187ccdaba3e7d</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">103.75.138.29</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&#38;utm_campaign=n8n.mkgrowth.ca" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div>
+</div>
+</body>
+</html>
